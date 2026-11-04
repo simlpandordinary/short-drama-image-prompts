@@ -21,18 +21,18 @@
 ├── README.upstream.md
 ├── SKILL.md
 ├── references/
-├── character-and-look.md
-├── common-recipe.md
-├── edit-and-revision.md
-├── location-plate.md
-├── look-and-state-variant.md
-├── lookdev-frame.md
-├── production-sheet-recipes.md
-├── prop-plate.md
-├── review-and-fixtures.md
-└── stage-contract.md
+│   ├── character-and-look.md
+│   ├── common-recipe.md
+│   ├── edit-and-revision.md
+│   ├── location-plate.md
+│   ├── look-and-state-variant.md
+│   ├── lookdev-frame.md
+│   ├── production-sheet-recipes.md
+│   ├── prop-plate.md
+│   ├── review-and-fixtures.md
+│   └── stage-contract.md
 └── agents/
-└── openai.yaml
+    └── openai.yaml
 ```
 
 - `SKILL.md` 是技能入口（触发条件 / 工作流 / 约束），安装时必须位于技能根目录。
